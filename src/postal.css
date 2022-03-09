@@ -1,0 +1,12 @@
+
+body{
+    background-image: url("bosque.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.floc{
+    position: fixed;
+    font-size: 30px;
+
+}
