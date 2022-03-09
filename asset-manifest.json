@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PostalNevadoReact/static/css/main.1fb1d793.css",
+    "main.js": "/PostalNevadoReact/static/js/main.85b0320f.js",
+    "static/media/bosque.jpg": "/PostalNevadoReact/static/media/bosque.f98a52f78f9d38769ee6.jpg",
+    "index.html": "/PostalNevadoReact/index.html",
+    "main.1fb1d793.css.map": "/PostalNevadoReact/static/css/main.1fb1d793.css.map",
+    "main.85b0320f.js.map": "/PostalNevadoReact/static/js/main.85b0320f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fb1d793.css",
+    "static/js/main.85b0320f.js"
+  ]
+}
